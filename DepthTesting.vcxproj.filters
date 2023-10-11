@@ -55,5 +55,17 @@
     <None Include="resources\shaders\depth_testing.vs">
       <Filter>Resource Files\resources\shaders</Filter>
     </None>
+    <None Include="resources\shaders\singleColor.fs">
+      <Filter>Resource Files\resources\shaders</Filter>
+    </None>
+    <None Include="resources\shaders\singleColor.vs">
+      <Filter>Resource Files\resources\shaders</Filter>
+    </None>
+    <None Include="resources\shaders\testing.fs">
+      <Filter>Resource Files\resources\shaders</Filter>
+    </None>
+    <None Include="resources\shaders\testing.vs">
+      <Filter>Resource Files\resources\shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>

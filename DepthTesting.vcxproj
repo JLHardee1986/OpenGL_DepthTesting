@@ -145,6 +145,10 @@
   <ItemGroup>
     <None Include="resources\shaders\depth_testing.fs" />
     <None Include="resources\shaders\depth_testing.vs" />
+    <None Include="resources\shaders\singleColor.fs" />
+    <None Include="resources\shaders\singleColor.vs" />
+    <None Include="resources\shaders\testing.fs" />
+    <None Include="resources\shaders\testing.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
